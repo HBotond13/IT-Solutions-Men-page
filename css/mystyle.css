@@ -1,0 +1,26 @@
+/*
+ *  style
+ */
+
+.body {
+    background-color: rgb(79, 255, 255);
+}
+
+.myimg {
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.flag {
+    width: 70px;
+}
+
+h2 {
+    margin-bottom: 200px;
+}
+
+.spinner-grow {
+    margin-top: 20px;
+}
