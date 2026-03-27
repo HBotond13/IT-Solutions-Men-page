@@ -12,5 +12,6 @@
     - git add 
     - git commit -m "Message"
     - git push
+    - git clone https://github.com/felhasznalo/repo-nev.git
 
 :) 
